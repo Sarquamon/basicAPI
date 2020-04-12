@@ -1,0 +1,9 @@
+{
+  "name": "basicapi",
+  "version": "1.0.0",
+  "description": "Small API for project testing",
+  "main": "server.js",
+  "repository": "https://github.com/Sarquamon/basicAPI",
+  "author": "Salomón Piña",
+  "license": "MIT"
+}
